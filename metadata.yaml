@@ -1,0 +1,31 @@
+_repo: The-Awful-Australian_37022
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Desmond, Valerie
+    gutenberg_agent_id: '38598'
+    url: http://www.gutenberg.org/2009/agents/38598
+description: ''
+gutenberg_issued: '2011-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, Australian'
+- !lcc 'DU'
+- !lcsh 'Australia -- Social life and customs'
+tableOfContents: Australian politics -- The Australian accent -- Australian manners
+  -- Miss Australia -- Australia for the Australians -- The Australian in society
+  -- The Australian at shirk -- The listless policeman -- The Australian's parasitical
+  tendencies -- The Australian's lack of patriotism -- Club life in Australia -- The
+  Australian on the land -- The Australian titled person -- The Australian at the
+  breakfast table -- The Australian poets -- The C.Y.A.
+title: The Awful Australian
+url: http://www.gutenberg.org/ebooks/37022
